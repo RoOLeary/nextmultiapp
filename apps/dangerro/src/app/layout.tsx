@@ -2,8 +2,6 @@ import './globals.css'
 import { Inter } from 'next/font/google'
 import { Metadata } from 'next'
 
-
-
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
@@ -27,7 +25,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <h1 className="text-red-700 mx-auto max-w-full text-4xl">Danger RO(OT)</h1>
         {children}
-        Whoop.
+        <p className="font-black">Whoop!!</p>
       </body>
     </html>
   )
