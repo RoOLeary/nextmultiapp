@@ -7,7 +7,7 @@ import { Metadata } from 'next'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Danger Rp',
+  title: 'Danger Ro',
   description: 'Fractional CTO experts. Headless web and app development, devops, project management, digital strategy, media and events',
   keywords: 'Fractional CTO, CTO, Tech Lead, Business Lead, Online Strategy, Mobile Apps, NextJS, Craft CMS, Strapi',
   viewport: {
@@ -24,7 +24,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <h1 className="text-red-700 mx-auto max-w-full text-4xl">Danger RO(oT)</h1>
+        {children}
+      </body>
     </html>
   )
 }
