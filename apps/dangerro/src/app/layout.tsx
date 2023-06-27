@@ -25,7 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <h1 className="text-red-700 mx-auto max-w-full text-4xl">Danger RO(oT)</h1>
+        <h1 className="text-red-700 mx-auto max-w-full text-4xl">Danger RO(OT)</h1>
         {children}
       </body>
     </html>
