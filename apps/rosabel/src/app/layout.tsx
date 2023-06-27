@@ -15,7 +15,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>{children}
+      <p className="font-black">Ass, Ass, Booty, Booty </p> 
+      </body>
+     
     </html>
   )
 }

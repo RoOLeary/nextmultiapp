@@ -25,7 +25,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <h1 className="text-red-700 mx-auto max-w-full text-4xl">Danger RO(OT)</h1>
         {children}
-        <p className="font-black">Whoop!!</p>
+        <p className="font-black">Me fluuh!! </p>
       </body>
     </html>
   )
