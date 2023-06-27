@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Danger Ro',
   description: 'Fractional CTO experts. Headless web and app development, devops, project management, digital strategy, media and events',
-  keywords: 'Fractional CTO, CTO, Tech Lead, Business Lead, Online Strategy, Mobile Apps, NextJS, Craft CMS, Strapi',
+  keywords: 'Factional CTO, CTO, Tech Lead, Business Lead, Online Strategy, Mobile Apps, NextJS, Craft CMS, Strapi',
   viewport: {
     width: 'device-width',
     initialScale: 1,
