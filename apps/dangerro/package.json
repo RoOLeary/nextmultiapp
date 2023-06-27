@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "ui": "*",
-    "tailwindconfig": "*"
+    "tailwindconfig": "*",
+    "next": "^13.4.1"
   },
   "devDependencies": {
     "eslint-config-custom": "*",
