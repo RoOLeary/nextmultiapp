@@ -12,7 +12,7 @@
     "prettier": "^2.5.1",
     "turbo": "^1.9.3"
   },
-  "name": "my-turborepo",
+  "name": "monorep_ro",
   "packageManager": "npm@9.5.0",
   "workspaces": [
     "apps/*",
